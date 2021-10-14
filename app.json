@@ -31,7 +31,7 @@
     },
     "FORCE_SUB_CHANNEL":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "-1001525175417"
+      "value": "-1001400055271"
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
@@ -43,7 +43,7 @@
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
-      "value": "1982435946 1971213927",
+      "value": "1982435946 1971213927 1981409076 1927396145",
       "required": false
     }
   },
